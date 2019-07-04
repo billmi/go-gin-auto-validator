@@ -28,7 +28,7 @@ import (
 	@author : Bill
 	Base : http
 	配置解释
-	Sence : 场景
+	Sence : 场景,可按场景复用配置字段与验证规则
 	Rules : 规则
 	Message : 返回对应消息
  */
