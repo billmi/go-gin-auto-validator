@@ -5,6 +5,14 @@ import (
 	"go-gin-auto-validator/validator"
 )
 
+/**
+	@author : Bill
+	基于http的自动验证器
+	配置解释
+	Sence : 场景
+	Rules : 规则
+	Message : 返回对应消息
+ */
 
 func main() {
 
